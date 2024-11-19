@@ -1,0 +1,2 @@
+print("Ford Mustang 5.0 V8")
+print("But in the end, I'll settle for Alto 650")
